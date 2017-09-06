@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="SDKTemplate.Acc_Settings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Chocolate">
+
+    <Canvas>
+        <TextBlock FontSize="28" Canvas.Left="17" Canvas.Top="46">View Account Information:</TextBlock>
+        <TextBlock FontSize="22" Canvas.Left="17" Canvas.Top="123">Name:</TextBlock>
+        <TextBlock Name="name" Canvas.Left="235" Canvas.Top="123" FontSize="22"></TextBlock>
+        <TextBlock FontSize="22" Canvas.Left="17" Canvas.Top="151">Account Number:</TextBlock>
+        <TextBlock Name="acc_num" Canvas.Left="235" Canvas.Top="151" FontSize="22"></TextBlock>
+        <TextBlock FontSize="22" Canvas.Left="17" Canvas.Top="184">DOB(mm/dd/yyyy):</TextBlock>
+        <TextBlock Name="DOB" Canvas.Left="235" Canvas.Top="184" FontSize="22"></TextBlock>
+        <Button x:ConnectionId='1' Canvas.Left="17" Canvas.Top="260" Name="view"                   >View Account Information</Button>
+       
+
+    </Canvas>
+</Page>
+

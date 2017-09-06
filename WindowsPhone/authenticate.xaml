@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="SDKTemplate.authenticate"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Chocolate">
+
+    <StackPanel>
+        <TextBlock TextAlignment="Center" FontSize="40" Margin="0 10 0 30">Authentication</TextBlock>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Margin="15" FontSize="20">Enter your password: </TextBlock>
+            <TextBox Name="password" HorizontalAlignment="Center" Width="80" InputScope="Number"></TextBox>
+        </StackPanel>
+        
+        <Button Content="submit" HorizontalAlignment="Center"  Click="Button_Click"></Button>
+        <TextBlock Name="message" Width="300" HorizontalAlignment="Center" FontSize="30"></TextBlock>
+
+    </StackPanel>
+</Page>

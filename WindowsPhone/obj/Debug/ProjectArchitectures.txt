@@ -1,0 +1,1 @@
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\ProximityCS.WindowsPhone.csproj;neutral

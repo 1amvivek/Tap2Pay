@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="SDKTemplate.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Chocolate">
+
+
+    <Hub x:Name="hub" x:Uid="hub" Header="Tap and Pay">
+        <HubSection x:Uid="hubsection1" Header="Money Transfer Gateway">
+            <DataTemplate x:Name="data">
+                <Canvas>
+                    <Button Content="Payment Gateway" Canvas.Left="75" Canvas.Top="60" x:Name="app_button" Click="app_button_Click" Height="120" Width="200"></Button>
+                    
+                    <TextBlock FontSize="20" Canvas.Left="10" Canvas.Top="224"> Instructions:</TextBlock>
+                    <TextBlock Canvas.Left="40" Canvas.Top="270" xml:space="preserve" FontSize="18">          Enter the amount  in the 
+textbox available  and click pay
+to start transfering the amount
+from your account.
+                    </TextBlock>
+
+                </Canvas>
+            </DataTemplate>
+        </HubSection>
+        <HubSection x:Uid="hubsection2" Header="Settings">
+            <DataTemplate>
+                <Canvas>
+                    <Button Height="60" Width="200" Canvas.Left="0" Canvas.Top="40" x:Name="change_pwd" Click="change_pwd_Click">Change Password</Button>
+                    <Button Height="60" Width="200" Canvas.Left="0" Canvas.Top="110">Bank Mini Statement</Button>
+                    <Button Canvas.Left="0" Canvas.Top="180" Height="60" Width="200" Click="history_Click" x:Name="history">Recent Transactions</Button>
+                    <Button Canvas.Left="0" Canvas.Top="250" Height="60" Width="200" x:Name="accSettings" Click="accSettings_Click">Account Settings</Button>
+                    <Button Canvas.Left="0" Canvas.Top="320" Height="60" Width="200" Click="about_Click" x:Name="about">About Us</Button>
+                </Canvas>
+            </DataTemplate>
+        </HubSection>
+        
+    </Hub>
+</Page>

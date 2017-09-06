@@ -1,0 +1,231 @@
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\App.xbf
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\Scenario3_ProximityDevice.xbf
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\MainPage.xbf
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\ScenarioList.xbf
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\Styles\Styles.xbf
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.xr.xml
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.exe
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.pdb
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\resources.pri
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\AppxManifest.xml
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.build.appxrecipe
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\App.g.i.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\App.g.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\MainPage.g.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\ScenarioList.g.i.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\ScenarioList.g.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\Styles\Styles.g.i.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\Styles\Styles.g.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.g.i.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.g.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\App.xaml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\MainPage.xaml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\ScenarioList.xaml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\Styles\Styles.xaml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.xaml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\App.xbf
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\MainPage.xbf
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\ScenarioList.xbf
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\Styles\Styles.xbf
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.xbf
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\ProximityCS.WindowsPhone.exe
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\ProximityCS.WindowsPhone.pdb
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\priconfig.xml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\layout.resfiles
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\resources.resfiles
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\pri.resfiles
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\qualifiers.txt
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\BlankPage1.xbf
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\BlankPage1.g.i.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\BlankPage1.g.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\BlankPage1.xaml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\BlankPage1.xbf
+D:\New folder\newfolder\C#\WindowsPhone\bin\Debug\authenticate.xbf
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\authenticate.g.i.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\authenticate.g.cs
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\authenticate.xaml
+D:\New folder\newfolder\C#\WindowsPhone\obj\Debug\authenticate.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\App.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\Scenario3_ProximityDevice.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\authenticate.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\BlankPage1.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\MainPage.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\ScenarioList.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\Styles\Styles.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.xr.xml
+D:\Tap2Pay\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.exe
+D:\Tap2Pay\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.pdb
+D:\Tap2Pay\WindowsPhone\bin\Debug\resources.pri
+D:\Tap2Pay\WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Tap2Pay\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.build.appxrecipe
+D:\Tap2Pay\WindowsPhone\obj\Debug\App.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\App.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\authenticate.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\authenticate.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\BlankPage1.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\BlankPage1.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\ScenarioList.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\ScenarioList.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\Styles\Styles.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\Styles\Styles.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\App.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\authenticate.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\BlankPage1.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\MainPage.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\ScenarioList.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\Styles\Styles.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\App.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\authenticate.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\BlankPage1.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\MainPage.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\ScenarioList.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\Styles\Styles.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Tap2Pay\WindowsPhone\obj\Debug\ProximityCS.WindowsPhone.exe
+D:\Tap2Pay\WindowsPhone\obj\Debug\ProximityCS.WindowsPhone.pdb
+D:\Tap2Pay\WindowsPhone\obj\Debug\priconfig.xml
+D:\Tap2Pay\WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Tap2Pay\WindowsPhone\obj\Debug\layout.resfiles
+D:\Tap2Pay\WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Tap2Pay\WindowsPhone\obj\Debug\resources.resfiles
+D:\Tap2Pay\WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Tap2Pay\WindowsPhone\obj\Debug\pri.resfiles
+D:\Tap2Pay\WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Tap2Pay\WindowsPhone\obj\Debug\qualifiers.txt
+D:\Tap2Pay\WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Tap2Pay\WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Tap2Pay\WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Tap2Pay\WindowsPhone\bin\Debug\about.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\about.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\about.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\about.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\about.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\instructions.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\instructions.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\instructions.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\instructions.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\instructions.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\history.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\history.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\history.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\history.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\history.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\acc_info.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\acc_info.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\acc_info.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\acc_info.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\acc_info.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\Acc_Settings.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\Acc_Settings.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\Acc_Settings.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\Acc_Settings.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\Acc_Settings.xbf
+D:\Tap2Pay\WindowsPhone\bin\Debug\change_password.xbf
+D:\Tap2Pay\WindowsPhone\obj\Debug\change_password.g.i.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\change_password.g.cs
+D:\Tap2Pay\WindowsPhone\obj\Debug\change_password.xaml
+D:\Tap2Pay\WindowsPhone\obj\Debug\change_password.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\App.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\Scenario3_ProximityDevice.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\about.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\acc_info.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\Acc_Settings.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\authenticate.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\BlankPage1.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\change_password.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\history.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\instructions.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\ScenarioList.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\Styles\Styles.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.xr.xml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.exe
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.pdb
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\resources.pri
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\bin\Debug\ProximityCS.WindowsPhone.build.appxrecipe
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\about.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\about.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\acc_info.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\acc_info.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Acc_Settings.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Acc_Settings.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\authenticate.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\authenticate.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\BlankPage1.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\BlankPage1.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\change_password.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\change_password.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\history.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\history.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\instructions.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\instructions.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\ScenarioList.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\ScenarioList.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Styles\Styles.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Styles\Styles.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.g.i.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\App.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\about.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\acc_info.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Acc_Settings.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\authenticate.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\BlankPage1.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\change_password.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\history.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\instructions.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\ScenarioList.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Styles\Styles.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.xaml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\App.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\about.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\acc_info.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Acc_Settings.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\authenticate.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\BlankPage1.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\change_password.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\history.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\instructions.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\ScenarioList.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Styles\Styles.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\Scenario3_ProximityDevice.xbf
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\ProximityCS.WindowsPhone.exe
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\ProximityCS.WindowsPhone.pdb
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Venkat\Desktop\Tap2Pay\WindowsPhone\obj\Debug\ProjectArchitectures.txt
